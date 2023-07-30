@@ -1,11 +1,11 @@
 ---
 date: '2022-08-26'
-title: We just got to 1 crore customers
-tags: [zerodha]
-author: nithin
+title: here we go again a new beginning.
+tags: [Aakash.io]
+author: Aakash
 link: https://twitter.com/Nithin0dha/status/1563133544884760576
 post_type: tweet
-description: We at Zerodha just got to 1 crore customers.
+description: yup.
 
 ---
 
